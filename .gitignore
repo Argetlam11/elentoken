@@ -1,0 +1,16 @@
+# Hardhat files
+artifacts
+cache
+typechain
+client/src/deployments.json
+
+# Tests
+coverage
+coverage.json
+
+# Lib
+node_modules
+
+.vscode
+
+env.ts
