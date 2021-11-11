@@ -8,7 +8,7 @@ const config = {
       networkName: 'Binance Smart Chain Mainnet',
       addresses: {
         TokenSender: deployments[56].bscmainnet.contracts.TokenSender.address,
-        Token: '0xBA5Fe23f8a3a24BEd3236F05F2FcF35fd0BF0B5C', // ELEN token adddres
+        Token: '0xCa2483727292bA552AEc12DfEE4dc105CB1376B9', // ELEN token adddres
       },
     },
     [ROPSTEN_ID]: {
